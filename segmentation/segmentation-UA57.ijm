@@ -31,7 +31,7 @@ function processFile(input, output, file, suffix) {
 	// Leave the print statements until things work, then remove them.
 	setBatchMode(true);
 	figfile = input + File.separator + file;
-	scale = "/Users/jcbacong/Documents/BCH 205/BCH205-Tapuy-Project/Retardation Assay/scale.png";
+	scale = "/Users//scale.png";
 	
 	// Remove the scale and bg noise
 	open(figfile);
